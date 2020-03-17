@@ -1,0 +1,111 @@
+---------------------------------------------
+Body locations:
+---------------------------------------------
+Abdomen, pelvis & buttocks (16)
+Arms & shoulder (7)
+Chest & back (15)
+Head, throat & neck (6)
+Legs (10)
+Skin, joints & general (17)
+---------------------------------------------
+Sublocations for randomly selected location Head, throat & neck
+---------------------------------------------
+
+Face & eyes (23)
+Forehead & head in general (22)
+Hair & scalp (21)
+Mouth & jaw (25)
+Nose, ears, throat & neck (24)
+---------------------------------------------
+Sublocations for randomly selected location Face & eyes
+---------------------------------------------
+
+---------------------------------------------
+Body sublocations symptoms:
+---------------------------------------------
+Eye redness
+Going black before the eyes
+Itching eyes
+Burning eyes
+Feeling of foreign body in the eye
+Cheek swelling
+Tears
+Drooping eyelid
+Dry eyes
+Eye pain
+---------------------------------------------
+Randomly selected symptom: Going black before the eyes
+---------------------------------------------
+
+---------------------------------------------
+You have selected a symptom which requires a prompt check with a medical doctor.
+---------------------------------------------
+---------------------------------------------
+Diagnosis
+---------------------------------------------
+
+Coronary heart disease - 90% 
+ICD: I20;I21;I22;I23;I24;I25Angina pectoris;Acute myocardial infarction;Subsequent myocardial infarction;Certain current complications following acute myocardial infarction;Other acute ischaemic heart diseases;Chronic ischaemic heart disease
+Specialisations : Cardiology,General practice,Internal medicine
+
+Heart attack - 67.49999%
+ICD: I21;I22Acute myocardial infarction;Subsequent myocardial infarction
+Specialisations : Cardiology,General practice,Internal medicine
+
+Obstruction of a pulmonary artery - 28.125%
+ICD: I26Pulmonary embolism
+Specialisations : General practice,Internal medicine,Pulmonology
+
+---------------------------------------------
+Specialisations
+---------------------------------------------
+
+General practice - 90%
+Internal medicine - 90%
+Cardiology - 76.36363%
+Pulmonology - 13.636364%
+
+---------------------------------------------
+Issue info
+---------------------------------------------
+b'Name: Coronary heart disease'
+b'Professional Name: Coronary artery disease'
+b'Synonyms: CAD,ischemic heart disease,IHD,atherosclerotic heart disease,atherosclerotic cardiovascular disease'
+b'Short Description: Coronary artery disease is a hardening of the arteries in the arteries of the heart and can cause circulatory disorders with accompanying chest pain (angina pectoris), a heart attack, or even sudden death from heart failure.'
+b'Description: Coronary artery disease is a hardening of the arteries of the heart (arteriosclerosis).  It leads to a narrowing of the arteries as well as a reduction in the circulation of blood to the muscles of the heart and the symptoms associated with that.'
+b'Medical Condition: Coronary artery disease is common predominantly in developed countries.  Risk factors for coronary artery disease and the same as those for arteriosclerosis:  high blood pressure (hypertension), smoking, increased blood lipid levels (especially cholesterol), age, heart attacks (in related family members), diabetes, being overweight, a diet rich in calories and fats, lack of exercise, and high levels of stress.  Decreased blood supply to the heart muscles leads to symptoms 
+typical of angina pectoris with feelings of tightness in the chest and a pressure on the chest that radiates out to the throat or the left arm.  Symptoms may feel similar to those of heartburn.  Symptoms usually manifest during periods of effort, psychological stress, or in cold conditions and disappear within 15 minutes.'        
+b'Treatment Description: If a plaque built up in a vessel detaches, the coronary artery is then closed and cause a heart attack, which is the dying off of part of the heart\xe2\x80\x99s own muscles caused by lack of blood.  Symptoms typically include intense, long-lasting angina pectoris that does not improve, accompanied by nausea, cold sweats, and shortness of breath.  In the worst case, a heart attack can lead to death, so if the above mentioned symptoms occur it is an emergency situation and a hospital visit is necessary.  In order to prevent coronary artery disease, it\xe2\x80\x99s important to get regular daily exercise, eat a Mediterranean-style diet (little fat, lots of vegetables, fish, and fiber), avoiding nicotine (quitting is best), and keeping blood sugar, blood pressure, and blood lipid levels in check.  
+To clarify the causes for angina pectoris, you should visit a specialist in cardiology.  Treatment depends on the severity of the disease (see the article on heart attacks).'
+b'Possible symptoms: Chest pain,Chest tightness,Cold sweats,Going black before the eyes,Heartburn,Shortness of breath,Tiredness,Unconsciousness, short,Weight gain \n\n'
+
+---------------------------------------------
+Issue info
+---------------------------------------------
+b'Name: Heart attack'
+b'Professional Name: Myocardial infarction'
+b'Synonyms: MI,acute myocardial infarction,AMI'
+b'Short Description: A heart attack is a part of the heart muscle dying off.  It is usually caused by a clogging of the a coronary artery which occurs when a plaque build up along the walls of a blood vessel (arteriosclerosis) detach itself.  A heart attack is an emergency situation.'
+b'Description: In the coronary artery disease, accumulation of material on the vessel walls can suddenly tear off and clog a coronary artery with the formation of blood clots.  This prevents the affected heart muscles from receiving sufficient oxygen and they begin to die.'
+b'Medical Condition: Heart attacks affect men twice as often as women and are usually associated with the hardening of the arteries (artherosclerosis).  Risk factors 
+and precautionary measures can be found in the coronary artery disease article.  The signs of a heart attack include intense, long lasting chest pain (angina pectoris), with possible radiation into the throat or the left arm, usually associated with shortness of breath, feelings of anxiety, nausea, and a cold sweat.  Some people may feel pains around their stomach.  Triggers for a heart attack include vigorous physical effort, stressful situations and significant fluctuations in blood pressure.'
+b'Treatment Description: If a heart attack is identified too late, the coronary muscle turns to scar tissue and can lead to heart failure, arrhythmia, or pulmonary edema (water in the lung).  A visit to the hospital is a must for anyone experiencing the symptoms named above.  If it\xe2\x80\x99s treated soon enough, part of the heart muscle and the life of the patient can often be saved.  A small procedure to install a thin stent into the coronary artery can help to keep the clogged artery open and reestablish blood flow.  Stent or no, medications need to be taken throughout the rest of the individual\xe2\x80\x99s life to prevent a second episode.  Medications may include aspirin, cholesterol lowering drugs, beta-blockers, or ACE inhibitors.'
+b'Possible symptoms: Shortness of breath,Unconsciousness, short,Chest pain,Chest tightness,Vomiting,Weight gain,Palpitations,Cold sweats,Tiredness,Going black before 
+the eyes,Nausea \n\n'
+
+---------------------------------------------
+Issue info
+---------------------------------------------
+b'Name: Obstruction of a pulmonary artery'
+b'Professional Name: Pulmonary embolism'
+b'Synonyms: None'
+b'Short Description: A pulmonary embolism is the presence of blood clots in the lung\xe2\x80\x99s blood vessels which have usually traveled from other parts of the body, most notably legs.'
+b'Description: The condition where the lung\xe2\x80\x99s blood vessels are blocked by blood clots is called pulmonary embolism.'
+b'Medical Condition: Pulmonary embolisms can be fatal depending on the size of the clogged blood vessel in the lung.  It is characterized by shortness of breath, shallow breathing, chest pains, feelings of anxiety, and partial coughing.'
+b'Treatment Description: Deep vein thrombosis predominantly affects women and becomes more common with age.  The causes of deep vein thrombosis are many, including lack of exercise, an operation, long flights, clotting disorders, varicose veins, being heavily  overweight, estrogen (birth control pills), and smoking.  Patients often notice a pain similar to that of sore muscles in the affected leg, sensations of tension or weight, swelling, a warm sensation, and pain when pressed.  If symptoms 
+present themselves after a flight for example, a doctor or hospital should be sought out immediately.  There you can be fitted with compression stockings and have blood thinners administered to decrease the risk of a pulmonary embolism and assess the situation if needed.  For those who travel long distances it\xe2\x80\x99s recommended that you stand up regularly and move about or at least do some calf exercises while sitting.  Preventative therapy with short-term blood thinners is something that can be considered.'
+b'Possible symptoms: Shortness of breath,Unconsciousness, short,Chest pain,Chest tightness,Palpitations,Cough,Fast, deepened breathing,Going black before the eyes \n\n'
+
+---------------------------------------------
+Proposed symptoms: 31,17,45,29,153,139
+---------------------------------------------
